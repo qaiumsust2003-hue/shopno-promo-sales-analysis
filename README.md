@@ -1,6 +1,6 @@
 # Shopno Superstore: Promotions and Sales Increase
 
-Status: Project initialised, proposal not yet written.
+Status: Data prepared, analysis not started.
 
 ## Overview
 This project studies how much different promotional activities (in-store displays, mailer flyers, and price discounts) lift weekly sales at a supermarket chain, using regression.
